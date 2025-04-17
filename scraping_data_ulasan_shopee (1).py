@@ -12,7 +12,7 @@ import requests
 import pandas as pd
 import time
 
-# Ganti dengan cookie dari browser
+# cookie dari browser
 cookies = {
     "SPC_EC": ".bFVHRktOTVJOSVRvT3ZhZfzPcfgOtdAJDQjwjyUIvuFqJ/k6xVcsd6wSqS5O8urX7TM5SF6ir94g6ZeffTgX9P/ybxfq6JAq41azwi22RyZtCnS2HB9PpT/v7zh73uRi0/+GQon/jsIx3SCE1JT9Aml2pD4AbghLkSSBOuLZ09jBRonANIAnab3BzlH1AOIY09gj64j2IjvzmPUgl+VMfJxEuHzElOqKZRM6oio3Dz+fRWaxVXsB0iV3TbjTFODK",
     "SPC_R_T_ID": "Pu5Dh3hwEWBfZOp7anFD4anCyH4LltQ+J+DvlnjDppQyYHmAQ83SjRqHLK1a5bfiRBbszz/1nFh85nDHNLy3YvWXH0xYHMW8wh5czGVqxLY84ovs1llRERTDs5FIZhMyr8uVUlULi1lFEJxM4pjTS3xxycZme3GrKceNTp0yD6A="
